@@ -1,2 +1,2 @@
 # library-management
-A Library Management Application Using VueJS and NodeJS
+A SPA Library Management Application
